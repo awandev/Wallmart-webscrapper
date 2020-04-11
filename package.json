@@ -1,0 +1,15 @@
+{
+  "name": "wallmart-webscrapper",
+  "version": "1.0.0",
+  "description": "wallmart webscrapper using nodejs, express, puppeeter, cherio, and ejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "author": "awandev",
+  "license": "ISC"
+}
